@@ -1,7 +1,7 @@
-OSS Lviv 2017
+OSS Vilnius 2017
 ========================
 
 Presentation for "Development Open Source Library" talk.
 
 
-Open http://asvetlov.github.io/oss-lviv-2017/
+Open http://asvetlov.github.io/oss-vilnius-2017/
